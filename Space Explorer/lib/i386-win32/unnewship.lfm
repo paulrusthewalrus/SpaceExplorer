@@ -1,0 +1,28 @@
+object frmNewShip: TfrmNewShip
+  Left = 872
+  Height = 240
+  Top = 320
+  Width = 320
+  Caption = 'frmNewShip'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.8.4.0'
+  object btnConfirm: TButton
+    Left = 160
+    Height = 25
+    Top = 160
+    Width = 75
+    Caption = 'btnConfirm'
+    OnClick = btnConfirmClick
+    TabOrder = 0
+  end
+  object btnBack: TButton
+    Left = 56
+    Height = 25
+    Top = 160
+    Width = 75
+    Caption = 'btnBack'
+    OnClick = btnBackClick
+    TabOrder = 1
+  end
+end

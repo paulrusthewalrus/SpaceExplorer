@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="SpaceExplorer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="197"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unMain"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="77"/>
+        <FoldState Value=" T3iJ0B1?"/>
+        <UsageCount Value="197"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unnewship.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmNewShip"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="8" Y="21"/>
+        <UsageCount Value="197"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ungame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGame"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unGame"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="838"/>
+        <CursorPos X="3" Y="1275"/>
+        <FoldState Value=" T7QC3 T3mB0L1 pjDje0{A2 ppIrW[J6Ok80S2]94jf0H[I49jW0G9]91k4065 pifjM0C2[95J0Y[a4FkC084 pkOl40{21]Sel0]A]Kmap506n"/>
+        <UsageCount Value="197"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="untravel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmTravel"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unTravel"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="212"/>
+        <CursorPos X="52" Y="232"/>
+        <FoldState Value=" T3j906313W"/>
+        <UsageCount Value="183"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unenemy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEnemy"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="650"/>
+        <CursorPos Y="303"/>
+        <FoldState Value=" T3jc0Q5 pib]9p2 plRn10F3 pjUkE0H2]9ZkI0M]9kLl905[a4Qle0J9"/>
+        <UsageCount Value="141"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="undead.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDead"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unDead"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="21" Y="37"/>
+        <FoldState Value=" T3iE08@"/>
+        <UsageCount Value="111"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unmyship.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMyShip"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unMyShip"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <CursorPos Y="107"/>
+        <UsageCount Value="104"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unjump.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmJumping"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unJump"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="21" Y="32"/>
+        <FoldState Value=" T3i50I2*"/>
+        <UsageCount Value="92"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unweptable.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmWepTable"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unWepTable"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="180"/>
+        <CursorPos Y="194"/>
+        <UsageCount Value="59"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unexit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmExit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unExit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="55"/>
+        <CursorPos X="29" Y="59"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unhighscore.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmHighscore"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unHighscore"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="29" Y="48"/>
+        <FoldState Value=" T3iD0{B1 pjSle0{02 T0iY5K2"/>
+        <UsageCount Value="38"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../../../lazarus/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="901"/>
+        <CursorPos Y="916"/>
+        <UsageCount Value="1"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../../../lazarus/lcl/include/customimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos Y="89"/>
+        <UsageCount Value="2"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../../../lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4152"/>
+        <CursorPos Y="4168"/>
+        <UsageCount Value="8"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../../../lazarus/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2297"/>
+        <CursorPos Y="2305"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../../../lazarus/lcl/include/imglist.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="354"/>
+        <CursorPos Y="367"/>
+        <UsageCount Value="5"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../../../lazarus/components/lazutils/textstrings.pas"/>
+        <UnitName Value="TextStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos Y="233"/>
+        <UsageCount Value="13"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="undead.pas"/>
+        <Caret Line="60" TopLine="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="undead.pas"/>
+        <Caret Line="59" TopLine="37"/>
+      </Position2>
+      <Position3>
+        <Filename Value="undead.pas"/>
+        <Caret Line="58" TopLine="36"/>
+      </Position3>
+      <Position4>
+        <Filename Value="undead.pas"/>
+        <Caret Line="57" TopLine="35"/>
+      </Position4>
+      <Position5>
+        <Filename Value="undead.pas"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position5>
+      <Position6>
+        <Filename Value="undead.pas"/>
+        <Caret Line="57" TopLine="35"/>
+      </Position6>
+      <Position7>
+        <Filename Value="undead.pas"/>
+        <Caret Line="58" TopLine="36"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unenemy.pas"/>
+        <Caret Line="788" Column="27" TopLine="782"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unenemy.pas"/>
+        <Caret Line="791" Column="27" TopLine="785"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unenemy.pas"/>
+        <Caret Line="725" Column="41" TopLine="707"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

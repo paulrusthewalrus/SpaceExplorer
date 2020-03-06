@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/ppc386" Date="1511735943"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw -gl  -k-framework -kCarbon -k-framework -kOpenGL -k-dylib_file -k/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib:/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib -l -vewnhibq &quot;-Fi/Volumes/GoogleDrive/My Drive/IPT/Grade 11/Term 3/IPT Major Project 1/&quot;Space Explorer&quot;/lib/i386-darwin&quot; -Fu/Developer/lazarus/lcl/units/i386-darwin/carbon -Fu/Developer/lazarus/lcl/units/i386-darwin -Fu/Developer/lazarus/components/lazutils/lib/i386-darwin -Fu/Developer/lazarus/packager/units/i386-darwin &quot;-Fu/Volumes/GoogleDrive/My Drive/IPT/Grade 11/Term 3/IPT Major Project 1/&quot;Space Explorer&quot;/&quot; &quot;-FU/Volumes/GoogleDrive/My Drive/IPT/Grade 11/Term 3/IPT Major Project 1/&quot;Space Explorer&quot;/lib/i386-darwin/&quot; -dLCL -dLCLcarbon SpaceExplorer.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
